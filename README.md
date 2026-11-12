@@ -44,7 +44,7 @@
 
 ```bash
 $ whoami
-> YOUR_NAME | AIML Graduate | Hyderabad, IN
+> SHASHANK KONDURU | AIML Graduate | Hyderabad, IN
 
 $ cat mission.txt
 > Build intelligent systems that solve real problems.
