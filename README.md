@@ -1,31 +1,31 @@
 <!-- 
-  WELCOME TO MY PROFILE README! 
-  ---------------------------------
-  Robotics Engineer | Firmware Wizard | Control Systems Nerd
+  ======================================================
+  [SYSTEM BOOT] LOADING ROBOTICS WORKSPACE...
+  TARGET: AUTONOMOUS SYSTEMS & ADVANCED FIRMWARE
+  ======================================================
 -->
 
 <div align="center">
-  
-  <!-- Animated / High-tech Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,45&height=220&section=header&text=HELLO,%20WORLD!%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Robotics%20Engineer%20|%20Firmware%20Developer%20|%20Autonomous%20Systems%20Architect&descSize=16&descAlignY=62&animation=fadeIn" width="100%" />
 
-</div>
+  <!-- Sci-Fi Cyberpunk Animated Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,20,35&height=240&section=header&text=SYSTEMS%20ONLINE&fontSize=42&fontColor=00ffcc&fontAlignY=35&desc=AI%20&%20Robotics%20Engineer%20//%20Autonomous%20Navigation%20&%20Control%20Systems&descSize=14&descColor=ffffff&descAlignY=62&animation=pulse" width="100%" />
 
-<br/>
+  <!-- Live Visitor & Social Metrics Badges -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=00ffcc&style=for-the-badge&label=VISITORS&labelColor=0d1117" alt="Profile Views" />
+    <a href="https://github.com/YOUR-GITHUB-USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?color=00ffcc&style=for-the-badge&logo=github&logoColor=00ffcc&labelColor=0d1117" alt="Followers"/></a>
+    <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ffcc" alt="LinkedIn"/></a>
+    <a href="mailto:your.email@domain.com"><img src="https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=00ffcc" alt="Email"/></a>
+  </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=cyan&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <a href="https://github.com/YOUR-GITHUB-USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?color=cyan&style=flat-square&logo=github&label=Followers" alt="GitHub Followers"/></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
 </div>
 
 ---
 
-### 💻 `whoami --robotics`
+### ⚡ `[TELEMETRY_LOG]` :: WHOAMI
 
-```bash
-$ ./initialize_profile.sh
-[INFO] Loading kinematics models... OK
-[INFO] Calibrating IMU and LiDAR sensors... OK
-[INFO] Establishing ROS2 communication nodes... OK
-[SUCCESS] System ready. Welcome to my digital workshop!
+```yaml
+operator: "YOUR-NAME / YOUR-GITHUB-USERNAME"
+primary_directive: "Bridging mathematical control theory with high-performance physical hardware."
+current_status: "Active // Developing edge-AI computer vision for multi-axis manipulation."
+location: "Earth [Sector: Robotics Lab]"
