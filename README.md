@@ -8,25 +8,11 @@
 
 <div align="center">
 
-```
-                    ___
-                   [ @ ]
-                     ║
-         ╔═══════════╩═══════════╗
-         ║  ╔═════════════════╗  ║
-         ║  ║  ▄▄▄▄▄   ▄▄▄▄▄  ║  ║
-         ║  ║  █ 0 █   █ 0 █  ║  ║
-         ║  ║  ▀▀▀▀▀   ▀▀▀▀▀  ║  ║
-         ║  ║        ^        ║  ║
-         ║  ║    ┌─┬─┬─┬─┐    ║  ║
-         ║  ║    └─┴─┴─┴─┘    ║  ║
-         ║  ╚═════════════════╝  ║
-    ╔═╗  ╚════════╦═════╦════════╝  ╔═╗
-    ╚═╝           ║     ║           ╚═╝
-         ╔════════╩═════╩════════╗
-         ║ >> SYSTEM: ONLINE  << ║
-         ╚═══════════════════════╝
-```
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:FF00E5&height=190&section=header&text=YOUR_NAME&fontSize=58&fontColor=0a0a12&animation=twinkling&fontAlignY=38&desc=%5B%20AI%20%2F%20ML%20ENGINEER%20%E2%80%A2%20NEURAL%20NETWORK%20BUILDER%20%5D&descSize=18&descAlignY=60" width="100%" /> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=900&color=00F5FF&background=00000000&center=true&vCenter=true&width=760&height=50&lines=%3E+INITIALIZING+PROFILE...;%3E+DEGREE%3A+ARTIFICIAL+INTELLIGENCE+%26+MACHINE+LEARNING;%3E+STATUS%3A+OPEN+TO+WORK+%F0%9F%9F%A2;%3E+HOBBY%3A+ANIME+%2B+AI+%3D+UNLIMITED+POWER" alt="typing" /> </div> <div align="center"> <img src="assets/face_projection.gif" width="420" alt="ASCII to real projection" />
+
+[ SUBJECT: SHASHANK ]  ::  [ STATUS: ONLINE ]
+
+</div> <div align="center">
 
 </div>
 
