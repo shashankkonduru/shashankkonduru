@@ -25,7 +25,7 @@
 ### ⚡ `[TELEMETRY_LOG]` :: WHOAMI
 
 ```yaml
-operator: "SHASHANK KONDURU / YOUR-GITHUB-USERNAME"
+operator: "YOUR-NAME / YOUR-GITHUB-USERNAME"
 primary_directive: "Bridging mathematical control theory with high-performance physical hardware."
 current_status: "Active // Developing edge-AI computer vision for multi-axis manipulation."
 location: "Earth [Sector: Robotics Lab]"
